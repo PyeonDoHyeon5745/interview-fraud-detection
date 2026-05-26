@@ -1,0 +1,36 @@
+# 발표자료 및 문서
+*.pptx
+*.pdf
+*.md
+
+# 영상/이미지
+*.mp4
+*.png
+*.jpg
+*.jpeg
+
+# 모델 가중치 (용량 큼)
+*.pt
+*.pth
+*.onnx
+
+# 데이터
+data/
+
+# JS (PPT 생성용)
+make_*.js
+make_toc.js
+make_cover.js
+make_ppt.js
+node_modules/
+package.json
+package-lock.json
+
+# Python 캐시
+__pycache__/
+*.pyc
+*.pyo
+
+# 시스템
+.DS_Store
+.claude/
