@@ -2,6 +2,7 @@
 *.pptx
 *.pdf
 *.md
+!README.md
 
 # 영상/이미지
 *.mp4
